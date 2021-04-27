@@ -1,6 +1,6 @@
 <p align="center">
-    <img width="400" height="200" src=".github/logo.png" title="Project logo"><br />
-    <img src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge" title="Project status">
+    <img width="800" src=".github/logo.png" title="Project logo"><br />
+    <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" title="Project status">
     <img src="https://img.shields.io/github/workflow/status/ccuffs/template-english/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Build status">
 </p>
 
@@ -10,7 +10,7 @@ Project description goes here. This description is usually two to three lines lo
 
 > ** NOTICE: ** put here a message that is very relevant to users of the project, if any.
 
-## Features
+## ✨Features
 
 Here you can place screenshots of the project. Also describe your features using a list:
 
@@ -19,7 +19,7 @@ Here you can place screenshots of the project. Also describe your features using
 * Beautiful template-english with a nice `README`;
 * Great documentation and testing?
 
-## Getting started
+## 🚀 Getting started
 
 ### 1. First step to get started
 
@@ -45,21 +45,21 @@ Usually the next steps teach you how to install and configure the project for us
 git clone https://github.com/ccuffs/template-english template-english
 ```
 
-## Contribute
+## 🤝 Contribute
 
 Your help is most welcome regardless of form! Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for all ways you can contribute to the project. For example, [suggest a new feature](https://github.com/ccuffs/template-english/issues/new?assignees=&labels=&template-english=feature_request.md&title=), [report a problem/bug](https://github.com/ccuffs/template-english/issues/new?assignees=&labels=bug&template-english=bug_report.md&title=), [submit a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), or simply use the project and comment your experience. You are encourage to participate as much as possible, but stay tuned to the [code of conduct](./CODE_OF_CONDUCT.md) before making any interaction with other community members.
 
 See the [ROADMAP.md](ROADMAP.md) file for an idea of how the project should evolve.
 
-## License
+## 🎫 License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) open-source license and is available for free.
 
-## Changelog
+## 🧬 Changelog
 
 See all changes to this project in the [CHANGELOG.md](CHANGELOG.md) file.
 
-## Similar projects
+## 🧪 Similar projects
 
 Below is a list of interesting links and similar projects:
 
