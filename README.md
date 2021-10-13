@@ -14,10 +14,10 @@ Project description goes here. This description is usually two to three lines lo
 
 Here you can place screenshots of the project. Also describe your features using a list:
 
-* Easy integration;
-* Few dependencies;
-* Beautiful template-english with a nice `README`;
-* Great documentation and testing?
+* ✔️ Easy integration;
+* 🥢 Few dependencies;
+* 🎨 Beautiful template-english with a nice `README`;
+* 🖖 Great documentation and testing?
 
 ## 🚀 Getting started
 
